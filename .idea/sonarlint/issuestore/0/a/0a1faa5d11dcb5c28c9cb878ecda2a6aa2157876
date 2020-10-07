@@ -1,0 +1,15 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ‚‰8ìŒ”±•.
+S
+java:S1128"3Remove this unused import 'groovy.json.JsonOutput'.( ‡ ûÿÿÿÿ8ğ·–±•.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(È«¢…ÿÿÿÿÿ8°¹Ü°•.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(‰´ˆúşÿÿÿÿ8èû”±•.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘íĞÿ8ğ·–±•.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨³Ë8°¹Ü°•.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ø•Å×8°¹Ü°•.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(†ñÀÛşÿÿÿÿ8°¹Ü°•.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(½áºİøÿÿÿÿ8°¹Ü°•.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’ãÆ£8ìŒ”±•.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Î‘Â¦8È¿”±•.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸÷±¢8°¹Ü°•.
+[	java:S125"<This block of commented-out lines of code should be removed.(íşØ’ÿÿÿÿÿ8ï’‡±•.
